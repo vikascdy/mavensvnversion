@@ -68,7 +68,7 @@
 			  <webResources>
 				<resource>
 				<!-- this is relative to the pom.xml directory -->
-					<directory>src\main\webapp\demo-apps</directory>
+					<directory>src\main\demo-apps</directory>
 					<!--<directory>src\main\demo-apps\edifecs-demo</directory>
 						<targetPath>edifecs-demo</targetPath>
 			
