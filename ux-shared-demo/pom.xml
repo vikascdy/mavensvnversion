@@ -68,13 +68,11 @@
 			  <webResources>
 				<resource>
 				<!-- this is relative to the pom.xml directory -->
-<<<<<<< HEAD
-					<directory>src\main\demo-apps</directory>
+				<!--	<directory>src\main\demo-apps</directory>-->
 					<!--<directory>src\main\demo-apps\edifecs-demo</directory>
-=======
 				<!--	<directory>src\main\demo-apps</directory> -->
 					<directory>src\main\demo-apps\edifecs-demo</directory>
->>>>>>> f15d7c7d890c681b06c55816beb4ad408559d109
+
 						<targetPath>edifecs-demo</targetPath>
 			
 				</resource>	
