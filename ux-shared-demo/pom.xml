@@ -69,12 +69,10 @@
 				<resource>
 				<!-- this is relative to the pom.xml directory -->
 					<directory>src/main/demo-apps/edifecs-demo</directory>
-					<includes><include>**/*.*</include></includes>
 					<targetPath>edifecs-demo</targetPath>
 				</resource>	
 				<resource>
 					<directory>src/main/demo-apps/extjs-examples</directory>
-					<includes><include>**/*.*</include></includes>
 					<targetPath>extjs-examples</targetPath>
 				</resource>
 		
