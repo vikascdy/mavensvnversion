@@ -68,13 +68,13 @@
 			  <webResources>
 				<resource>
 				<!-- this is relative to the pom.xml directory -->
-					<directory>src\main\webapp\demo-apps</directory>
-					<!--<directory>src\main\demo-apps\edifecs-demo</directory>
+				<!--	<directory>src\main\webapp\demo-apps</directory> -->
+					<directory>src\main\webapp\demo-apps\edifecs-demo</directory>
 						<targetPath>edifecs-demo</targetPath>
 			
 				</resource>	
 				<resource>
-					<directory>src\main\demo-apps\extjs-examples</directory>
+					<directory>src\main\webapp\demo-apps\extjs-examples</directory>
 					<targetPath>extjs-examples</targetPath>-->
 				</resource>
 		
